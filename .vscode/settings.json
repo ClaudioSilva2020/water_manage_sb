@@ -1,0 +1,52 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "/home/claudio/.platformio/packages/toolchain-xtensa@1.40802.0/bin/xtensa-lx106-elf-gcc",
+  "C_Cpp_Runner.cppCompilerPath": "/home/claudio/.platformio/packages/toolchain-xtensa@1.40802.0/bin/xtensa-lx106-elf-g++",
+  "C_Cpp_Runner.debuggerPath": "/home/claudio/.platformio/packages/toolchain-xtensa@1.40802.0/bin/xtensa-lx106-elf-gdb",
+  "C_Cpp_Runner.cStandard": "c99",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "/home/claudio/Documents/PlatformIO/Projects/water_level_manager/include",
+    "/home/claudio/Documents/PlatformIO/Projects/water_level_manager/src",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/extra_include",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/driver_lib/include",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/espressif",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip/ipv4",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip/ipv6",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/nopoll",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/spiffs",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/ssl",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/json",
+    "/home/claudio/.platformio/packages/framework-esp8266-rtos-sdk/include/openssl",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ]
+}
